@@ -15,6 +15,9 @@ if (categoria == '/tecnologia'){
 }else if (categoria == '/TI'){
 	res.end("<html><body>Portal de noticias de TI</body></html>");
 }
+else if (categoria == '/AUTO'){
+	res.end("<html><body>Portal de noticias de auto</body></html>");
+}
 else {
     res.end("<html><body>Portal de noticias</body></html>");
 }
