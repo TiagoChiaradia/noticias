@@ -2,5 +2,22 @@
   "dependencies": {
     "express": "^4.18.1",
     "node": "^17.7.2"
-  }
+  },
+  "name": "noticias",
+  "description": "",
+  "version": "1.0.0",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagoChiaradia/noticias.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagoChiaradia/noticias/issues"
+  },
+  "homepage": "https://github.com/tiagoChiaradia/noticias#readme"
 }
